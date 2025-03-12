@@ -29,8 +29,8 @@ This guide provides a structured approach to learning Generative AI, covering LL
 🛠️ Setup & Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/GenerativeAI-Learning-Guide.git  
-   cd GenerativeAI-Learning-Guide  
+   git clone https://github.com/mjabed3834/GenAI.git  
+   cd GenAI  
    ```
 2. Install dependencies:  
    ```bash
