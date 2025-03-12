@@ -47,6 +47,3 @@ This guide provides a structured approach to learning Generative AI, covering LL
 🤝 Contributing  
 Contributions are welcome! Fork, submit issues, and create pull requests.  
 
-📜 License  
-This project is licensed under the MIT License.
-
